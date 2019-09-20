@@ -23,4 +23,5 @@ Bulma is a free, open source CSS framework based on Flexbox.
 
 <br />
 
+---
 [Bootstrap to Bulma CSS](https://blog.appseed.us/developer-tools-convert-bootstrap-to-bulma-css/) **tool** provided by **AppSeed App Generator**
